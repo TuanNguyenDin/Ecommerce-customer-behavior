@@ -119,10 +119,10 @@ The analysis follows a structured approach to understand and predict customer ch
 - Dissatisfaction indicators like frequent service calls and high cart abandonment correlate with higher churn.
 
 ### Visual Insights
-![Correlation Matrix](img/correlation_matrix.png)
+![Correlation Matrix](img/Correlation_Matrix_of_Numerical_Features_with_Churn.png)
 *Correlation matrix showing relationships between features and churn.*
 
-![Customer Service Calls Distribution](img/service_calls_by_churn.png)
+![Customer Service Calls Distribution](img/Customer_Service_Calls_Distribution.png)
 *Distribution of customer service calls by churn status.*
 
 ## Recommendations Based on Analysis Results
