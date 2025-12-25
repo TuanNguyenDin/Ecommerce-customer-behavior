@@ -118,6 +118,13 @@ The analysis follows a structured approach to understand and predict customer ch
 - Customers with higher engagement (more logins, longer sessions, higher email open rates) are less likely to churn.
 - Dissatisfaction indicators like frequent service calls and high cart abandonment correlate with higher churn.
 
+### Visual Insights
+![Correlation Matrix](img/correlation_matrix.png)
+*Correlation matrix showing relationships between features and churn.*
+
+![Customer Service Calls Distribution](img/service_calls_by_churn.png)
+*Distribution of customer service calls by churn status.*
+
 ## Recommendations Based on Analysis Results
 
 - **Improve Churn Identification**: Enhance model recall by trying advanced models like RandomForest or Gradient Boosting, or addressing class imbalance.
