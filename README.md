@@ -1,5 +1,9 @@
 # Ecommerce-customer-behavior
 
+## Notebook Link
+
+You can view and run the analysis notebook on Google Colab: [Open in Colab](https://colab.research.google.com/github/TuanNguyenDin/Ecommerce-customer-behavior/blob/main/ecommerce_churn.ipynb)
+
 ## Goals of the Project
 
 The project aims to analyze customer churn in an e-commerce platform by exploring various questions such as demographic influences, membership correlations, engagement metrics, transactional factors, and building predictive models to identify at-risk customers.
