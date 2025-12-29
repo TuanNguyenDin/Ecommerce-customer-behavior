@@ -2,9 +2,12 @@
 
 ## Notebook Link
 
-You can view and run the analysis notebook on Google Colab: [Open in Colab](https://colab.research.google.com/github/TuanNguyenDin/Ecommerce-customer-behavior/blob/main/ecommerce_churn.ipynb)
-E-commerce Customer Churn Prediction Report:[Open in google docs](https://docs.google.com/document/d/1lJKkl71jcoC1PSgn9zikI66S6Ot2KoL00ZsqJxhHt0E/edit?usp=sharing)
-E-commerce Customer Churn Prediction Presentation[Google Slides](https://docs.google.com/presentation/d/10yYrv009m3ebUecrE5CDG5H652J50Ml3NChcZXiQe-A/edit?usp=sharing)
+You can view and run the analysis notebook on Google Colab: [Open in Colab](https://colab.research.google.com/github/TuanNguyenDin/Ecommerce-customer-behavior/blob/main/ecommerce_churn.ipynb).
+
+E-commerce Customer Churn Prediction Report:[Open in google docs](https://docs.google.com/document/d/1lJKkl71jcoC1PSgn9zikI66S6Ot2KoL00ZsqJxhHt0E/edit?usp=sharing).
+
+E-commerce Customer Churn Prediction Presentation[Google Slides](https://docs.google.com/presentation/d/10yYrv009m3ebUecrE5CDG5H652J50Ml3NChcZXiQe-A/edit?usp=sharing).
+
 
 ## Goals of the Project
 
