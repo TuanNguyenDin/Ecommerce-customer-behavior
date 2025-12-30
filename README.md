@@ -1,6 +1,6 @@
 # Ecommerce-customer-behavior
 
- !(img/article-Customer-Churn-Prediction.jpg)
+ ![](img/article-Customer-Churn-Prediction.jpg)
 
 ## Notebook Link
 
