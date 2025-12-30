@@ -1,5 +1,7 @@
 # Ecommerce-customer-behavior
 
+ !(img/article-Customer-Churn-Prediction.jpg)
+
 ## Notebook Link
 
 You can view and run the analysis notebook on Google Colab: [Open in Colab](https://colab.research.google.com/github/TuanNguyenDin/Ecommerce-customer-behavior/blob/main/ecommerce_churn.ipynb).
@@ -125,9 +127,11 @@ The analysis follows a structured approach to understand and predict customer ch
 
 ### Visual Insights
 ![Correlation Matrix](img/Correlation_Matrix_of_Numerical_Features_with_Churn.png)
+
 *Correlation matrix showing relationships between features and churn.*
 
 ![Customer Service Calls Distribution](img/Customer_Service_Calls_Distribution.png)
+
 *Distribution of customer service calls by churn status.*
 
 ## Recommendations Based on Analysis Results
